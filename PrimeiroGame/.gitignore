@@ -1,0 +1,98 @@
+# ============================================================
+# UNITY
+# ============================================================
+
+# Pastas geradas pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Capturas e gravações geradas pelo Unity
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ============================================================
+# IDEs
+# ============================================================
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains / Rider
+.idea/
+
+# Gradle
+.gradle/
+
+# Arquivos de projeto gerados automaticamente
+ExportedObj/
+.consulo/
+
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+
+# Arquivos temporários das IDEs
+*.tmp
+*.user
+*.userprefs
+
+# ============================================================
+# ARQUIVOS GERADOS / DEBUG
+# ============================================================
+
+*.log
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos de crash do Unity
+sysinfo.txt
+mono_crash.*
+
+# ============================================================
+# BUILDS / PACOTES
+# ============================================================
+
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.unitypackage.meta
+
+# ============================================================
+# BLENDER
+# ============================================================
+
+*.blend1
+*.blend1.meta
+
+# ============================================================
+# SISTEMA OPERACIONAL
+# ============================================================
+
+# macOS
+.DS_Store
+
+# ============================================================
+# OUTROS
+# ============================================================
+
+# Arquivos de merge do Git
+*.orig
+
+# Crashlytics
+crashlytics-build.properties
